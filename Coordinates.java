@@ -1,3 +1,5 @@
+//Copyright (C) 2018 Jane Holland <j.holland3@nuigalway.ie>
+
 public class Coordinates {
 
 	Float x;
