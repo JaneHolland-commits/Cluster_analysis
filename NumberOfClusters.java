@@ -1,3 +1,5 @@
+//Copyright (C) 2018 Jane Holland <j.holland3@nuigalway.ie>
+
 import java.io.*;
 import java.text.DecimalFormat;
 import java.util.*;
